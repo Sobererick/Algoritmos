@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "generador": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
+}
